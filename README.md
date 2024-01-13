@@ -1,2 +1,1 @@
-# Zui-DC-System
-查重系统
+仓库在gitte 等待搬运
